@@ -1,0 +1,358 @@
+[
+    {
+        "image_url": "",
+        "common_name": "Human Being",
+     "scientific_name": "Homo Sapien", 
+     "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primate",
+        "family": "Hominidae",
+        "genus": "Homo",
+        "species": "Sapiens"
+     },
+     "habitat": "Eveywhere", 
+     "conservation_status": "Least Concern"
+     
+    },
+    {
+        "image_url": "",
+        "common_name": "Dog",
+     "scientific_name": "Canis familiaris", 
+     "classification": {
+        "kingdom": "Animalia",
+        "phylum": "chordata",
+        "class": "mammalia",
+        "order": "carnivora",
+        "family": "canidae",
+        "genus": "canis",
+        "species": "lupus familiaris"
+     },
+     "habitat": "Mostly Domesticated Found in various human settlements and environments", 
+     "conservation_status": "Least Concern"
+   },
+   {
+      "image_url": "",
+      "common_name": "Cat",
+   "scientific_name": "felis catus", 
+   "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "mammalia",
+      "order": "carnivora",
+      "family": "felidae",
+      "genus": "felis",
+      "species": "catus"
+   },
+   "habitat": "Domesticated", 
+   "conservation_status": "least concern"
+   },
+   {
+      "image_url": "",
+      "common_name": "monkey",
+   "scientific_name": "", 
+   "classification": {
+      "kingdom": "Animalia",
+      "phylum": "chordata",
+      "class": "mammalia",
+      "order": "primates",
+      "family": "Cercopithecidae",
+      "genus": "Cercopithecus",
+      "species": "C. mona"
+   },
+   "habitat": "tropical forests, grasslands, and mountainous regions", 
+   "conservation_status": "least concern"
+   },
+   {
+      "image_url": "",
+      "common_name": "Goat",
+   "scientific_name": "Capra Hircus", 
+   "classification": {
+      "kingdom": "Animalia",
+      "phylum": "chordata",
+      "class": "mammalia",
+      "order": "artiodactyla",
+      "family": "bovidae",
+      "genus": "capra",
+      "species": "hircus"
+   },
+   "habitat": "Domesticated, found in human settlements originally from mountainous regions", 
+   "conservation_status": ""
+   },
+   {
+      "image_url": "",
+      "common_name": "Agama Lizard",
+   "scientific_name": "", 
+   "classification": {
+      "kingdom": "Animalia",
+      "phylum": "chordata",
+      "class": "reptilia",
+      "order": "squamata",
+      "family": "agamidae",
+      "genus": "agama",
+      "species": "Agama agama"
+   },
+   "habitat": "Savannas, grasslands, and rocky outcrops in sub-saharan africa", 
+   "conservation_status": ""
+   },
+   
+   {
+      "image_url": "",
+      "common_name": "Wall Gecko",
+      "scientific_name": "Hemidactylus frenatus",
+      "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Squamata",
+          "family": "Gekkonidae",
+          "genus": "Hemidactylus",
+          "species": "H. frenatus"
+      },
+      "habitat": "Urban and suburban areas, forests",
+      "conservation_status": "Least Concern"
+  },
+  {
+      "image_url": "",
+      "common_name": "Earthworm",
+      "scientific_name": "Lumbricus terrestris",
+      "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Annelida",
+          "class": "Clitellata",
+          "order": "Haplotaxida",
+          "family": "Lumbricidae",
+          "genus": "Lumbricus",
+          "species": "L. terrestris"
+      },
+      "habitat": "Soil, grasslands, forests",
+      "conservation_status": "Not Evaluated"
+  },
+  {
+      "image_url": "",
+      "common_name": "Catfish",
+      "scientific_name": "Clarias gariepinus",
+      "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Actinopterygii",
+          "order": "Siluriformes",
+          "family": "clariidae",
+          "genus": "clarias",
+          "species": "C. gariepinus"
+      },
+      "habitat": "Freshwater and coastal waters",
+      "conservation_status": "least concern"
+  },
+  {
+      "image_url": "",
+      "common_name": "Frog",
+      "scientific_name": "Rana temporaria",
+      "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Anura",
+          "family": "odontobatrachidae",
+          "genus": "odontobatrachus",
+          "species": "Varies"
+      },
+      "habitat": "Wetlands, forests, ponds",
+      "conservation_status": "Varies by species"
+  },
+  {
+      "image_url": "",
+      "common_name": "Pig",
+      "scientific_name": "Sus scrofa domesticus",
+      "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Artiodactyla",
+          "family": "Suidae",
+          "genus": "Sus",
+          "species": "S. scrofa"
+      },
+      "habitat": "Farms, forests, grasslands",
+      "conservation_status": "Domesticated"
+  },
+  {
+      "image_url": "",
+      "common_name": "Turkey",
+      "scientific_name": "Meleagris gallopavo",
+      "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Galliformes",
+          "family": "Phasianidae",
+          "genus": "Meleagris",
+          "species": "M. gallopavo"
+      },
+      "habitat": "Forests, grasslands, farms",
+      "conservation_status": "Least Concern"
+  },
+ 
+{
+  "image_url": "",
+  "common_name": "Anopheles Mosquito",
+  "scientific_name": "Anopheles gambiae",
+  "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Diptera",
+      "family": "Culicidae",
+      "genus": "Anopheles",
+      "species": "gambiae"
+  },
+  "habitat": "Tropical and temperate regions, wetlands",
+  "conservation_status": "Not Evaluated"
+},
+{
+  "image_url": "",
+  "common_name": "Housefly",
+  "scientific_name": "Musca domestica",
+  "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Diptera",
+      "family": "Muscidae",
+      "genus": "Musca",
+      "species": "M. domestica"
+  },
+  "habitat": "Urban and rural areas, near humans",
+  "conservation_status": "Not Evaluated"
+},
+{
+  "image_url": "",
+  "common_name": "Cricket",
+  "scientific_name": "Grigllus campestines",
+  "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Orthoptera",
+      "family": "Gryllidae",
+      "genus": "Grigllus",
+      "species": "campestines"
+  },
+  "habitat": "Grasslands, forests, under logs",
+  "conservation_status": "Not Evaluated"
+},
+{
+  "image_url": "",
+  "common_name": "Grasshopper",
+  "scientific_name":"Chorthippus brunnes",
+  "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Orthoptera",
+      "family": "Acrididae",
+      "genus": "Chorthippus",
+      "species": "brunnes"
+  },
+  "habitat": "Grasslands, fields, forests",
+  "conservation_status": "Not Evaluated"
+},
+{
+  "image_url": "",
+  "common_name": "Huntsman Spider",
+  "scientific_name": "Heteropoda venatoria",
+  "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Arachnida",
+      "order": "Araneae",
+      "family": "Sparassidae",
+      "genus": "Heteropoda",
+      "species": "venatoria"
+  },
+  "habitat": "Forests, urban areas, caves",
+  "conservation_status": "Varies by species"
+},
+{
+  "image_url": "",
+  "common_name": "Scorpion",
+  "scientific_name": "Pandinas imperator",
+  "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Arachnida",
+      "order": "Scorpiones",
+      "family": "Scorpionidae",
+      "genus": "Pandinus",
+      "species": "P. imperator"
+  },
+  "habitat": "savannahs, forest floor, grasslands",
+  "conservation_status": "least concern"
+},
+{
+  "image_url": "",
+  "common_name": "Soldier Ants",
+  "scientific_name": "Dorylus spp",
+  "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Insecta",
+      "order": "Hymenoptera",
+      "family": "Formicidae",
+      "genus": "Dorylus",
+      "species": "various species in the Dorylus genus"
+  },
+  "habitat": "Forests, urban areas and underground colonies",
+  "conservation_status": "Not Evaluated"
+},
+{
+  "image_url": "",
+  "common_name": "Tick",
+  "scientific_name": "Rhipicephalus sanguineus",
+  "classification": {
+      "kingdom": "Animalia",
+      "phylum": "Arthropoda",
+      "class": "Arachnida",
+      "order": "Ixodida",
+      "family": "Ixoxidae",
+      "genus": "Rhipicephalus",
+      "species": "R. sanguineus"
+  },
+  "habitat": "Grasslands, forests, on hosts",
+  "conservation_status": "Not Evaluated"
+},
+{
+"image_url": "",
+"common_name": "Skink",
+"scientific_name": "Trachylepis quinquetaeniata",
+"classification": {
+    "kingdom": "Animalia",
+    "phylum": "Chordata",
+    "class": "Amphibia",
+    "order": "squamata",
+    "family": "scinidae",
+    "genus": "trachylepis",
+    "species": "T. quinquetaeniata"
+},
+"habitat": "Wetlands, forests, streams",
+"conservation_status": "least concerm"
+},
+{
+    "image_url": "",
+    "common_name": "Black Ant",
+    "scientific_name": "Camponotas Maculatus",
+    "classification": {
+        "kingdom": "Animalia",
+        "phylum": "arthropoda",
+        "class": "Insecta",
+        "order": "Hymenoptera",
+        "family": "Formicidae",
+        "genus": "Camponotus",
+        "species": "C. maculatus"
+    },
+    "habitat": "Wetlands, forests, streams",
+    "conservation_status": "Not evaluated"
+    }
+
+]
