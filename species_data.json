@@ -1,0 +1,37 @@
+[
+    {
+        "image_url": "goat.jpg",
+        "common_name": "Goat",
+     "scientific_name": "Capra hircus", 
+     "classification": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Capra",
+        "species": "Capra hircus"
+     },
+     "habitat": "Africa", 
+     "conservation_status": "Least Concern"
+     
+    },
+    {
+        "image_url": "",
+        "common_name": "",
+     "scientific_name": "", 
+     "classification": {
+        "kingdom": "Animalia",
+        "phylum": "",
+        "class": "",
+        "order": "",
+        "family": "",
+        "genus": "",
+        "species": ""
+     },
+     "habitat": "", 
+     "conservation_status": ""
+
+
+    }
+]
