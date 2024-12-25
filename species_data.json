@@ -1,0 +1,97 @@
+[
+    {
+        "image_url": "images/human.jpg",
+        "common_name": "Human Being",
+        "scientific_name": "Homo Sapiens", 
+        "classification": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Primate",
+            "family": "Hominidae",
+            "genus": "Homo",
+            "species": "Sapiens"
+        },
+        "habitat": "Everywhere", 
+        "conservation_status": "Least Concern",
+        "body_coelom": "Coelomate",
+        "germ_layer": "Triploblastic",
+        "body_symmetry": "Bilateral"
+    },
+    {
+        "image_url": "images/dog.jpg",
+        "common_name": "Dog",
+        "scientific_name": "Canis familiaris", 
+        "classification": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Canidae",
+            "genus": "Canis",
+            "species": "Lupus familiaris"
+        },
+        "habitat": "Mostly domesticated, found in various human settlements and environments", 
+        "conservation_status": "Least Concern",
+        "body_coelom": "Coelomate",
+        "germ_layer": "Triploblastic",
+        "body_symmetry": "Bilateral"
+    },
+    {
+        "image_url": "images/cat.jpg",
+        "common_name": "Cat",
+        "scientific_name": "Felis catus", 
+        "classification": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Carnivora",
+            "family": "Felidae",
+            "genus": "Felis",
+            "species": "Catus"
+        },
+        "habitat": "Domesticated", 
+        "conservation_status": "Least Concern",
+        "body_coelom": "Coelomate",
+        "germ_layer": "Triploblastic",
+        "body_symmetry": "Bilateral"
+    },
+    {
+        "image_url": "images/monkey.jpg",
+        "common_name": "Monkey",
+        "scientific_name": "Cercopithecus mona", 
+        "classification": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Primates",
+            "family": "Cercopithecidae",
+            "genus": "Cercopithecus",
+            "species": "Mona"
+        },
+        "habitat": "Tropical forests, grasslands, and mountainous regions", 
+        "conservation_status": "Least Concern",
+        "body_coelom": "Coelomate",
+        "germ_layer": "Triploblastic",
+        "body_symmetry": "Bilateral"
+    },
+    {
+        "image_url": "images/goat.jpg",
+        "common_name": "Goat",
+        "scientific_name": "Capra hircus", 
+        "classification": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Mammalia",
+            "order": "Artiodactyla",
+            "family": "Bovidae",
+            "genus": "Capra",
+            "species": "Hircus"
+        },
+        "habitat": "Domesticated, found in human settlements originally from mountainous regions", 
+        "conservation_status": "Least Concern",
+        "body_coelom": "Coelomate",
+        "germ_layer": "Triploblastic",
+        "body_symmetry": "Bilateral"
+    }
+]
